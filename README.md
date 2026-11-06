@@ -1,2 +1,9 @@
-# bigmachine-tire-inspect-2
-Приложение инспекции шин BIGMACHINE: форма, камера, PDF, отправка на почту  - ✅  Public (публичный, бесплатный Actions) - ✅  Add a README file - Create repository
+# BigMachine — Инспекция шин
+
+Приложение Android (Jetpack Compose): форма инспекции шин грузовиков, фото протектора/манометра, PDF-отчёт, отправка на email. База данных — Room.
+
+## Сборка APK
+
+1. Создайте на GitHub репозиторий и загрузите сюда все файлы (или распакуйте архив проекта и запушьте).
+2. GitHub Actions автоматически соберёт APK при каждом push в `main`.
+3. Скачать APK: вкладка **Actions** → последний запуск → раздел **Artifacts** → `app-apk`.
